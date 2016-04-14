@@ -12,6 +12,7 @@ Feel free to submit any issues you may have via the [issue tracker](https://gith
 
 ## Installation
 
+Inside Visual Studio Code, press ⌘P (Quick Open) and type:
 ```
 ext install EditorConfig
 ```
